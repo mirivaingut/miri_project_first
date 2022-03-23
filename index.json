@@ -1,7 +1,12 @@
-[{
-    "hh":"hh",
-    "hgg":"jhjjh"
-},{
-    "hh":"hh",
-    "hgg":"jhjjh"
-}]
+[
+    {
+        "hh": "change",
+        "hgg": "jhjjh"
+    },
+    {
+        "hh": "hh",
+        "hgg": "jhjjh"
+    },{
+        "team":"server"
+    }
+]
